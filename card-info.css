@@ -1,0 +1,62 @@
+/* card-info */
+.card-info {
+  position: absolute;
+  width: 390px;
+  height: 794px;
+  left: 0px;
+  top: 0px;
+
+  background: #fffbed;
+}
+/* Frame 2 */
+.Frame 2 {
+  position: relative;
+  width: 329px;
+  height: 573px;
+  left: 30px;
+  top: 194px;
+
+  background: rgb(214, 122, 127);
+}
+/* wishtext */
+.wishtext {
+  position: absolute;
+  width: 195px;
+  height: 421px;
+  left: 45px;
+  top: 250px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #000000;
+}
+/* name */
+.name {
+  position: absolute;
+  width: 122px;
+  height: 48px;
+  left: 45px;
+  top: 51px;
+
+  font-family: "Inter";
+  font-style: italic;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 48px;
+
+  color: #000000;
+}
+/* stamp */
+.stamp {
+  position: absolute;
+  left: 67.18%;
+  right: 7.95%;
+  top: 4.28%;
+  bottom: 79.35%;
+
+  background: url(stamp.png);
+}
